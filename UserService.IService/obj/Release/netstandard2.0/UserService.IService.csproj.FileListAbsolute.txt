@@ -1,0 +1,12 @@
+C:\微服务\TemplateSolution\UserService.IService\bin\Release\netstandard2.0\UserService.IService.deps.json
+C:\微服务\TemplateSolution\UserService.IService\bin\Release\netstandard2.0\UserService.IService.dll
+C:\微服务\TemplateSolution\UserService.IService\bin\Release\netstandard2.0\UserService.IService.pdb
+C:\微服务\TemplateSolution\UserService.IService\bin\Release\netstandard2.0\UserService.Model.dll
+C:\微服务\TemplateSolution\UserService.IService\bin\Release\netstandard2.0\UserService.Model.pdb
+C:\微服务\TemplateSolution\UserService.IService\obj\Release\netstandard2.0\UserService.IService.csprojAssemblyReference.cache
+C:\微服务\TemplateSolution\UserService.IService\obj\Release\netstandard2.0\UserService.IService.AssemblyInfoInputs.cache
+C:\微服务\TemplateSolution\UserService.IService\obj\Release\netstandard2.0\UserService.IService.AssemblyInfo.cs
+C:\微服务\TemplateSolution\UserService.IService\obj\Release\netstandard2.0\UserService.IService.csproj.CoreCompileInputs.cache
+C:\微服务\TemplateSolution\UserService.IService\obj\Release\netstandard2.0\UserService.IService.csproj.CopyComplete
+C:\微服务\TemplateSolution\UserService.IService\obj\Release\netstandard2.0\UserService.IService.dll
+C:\微服务\TemplateSolution\UserService.IService\obj\Release\netstandard2.0\UserService.IService.pdb

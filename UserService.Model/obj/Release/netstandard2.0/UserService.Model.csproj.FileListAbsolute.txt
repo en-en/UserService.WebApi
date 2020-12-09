@@ -1,0 +1,8 @@
+C:\微服务\TemplateSolution\UserService.Model\bin\Release\netstandard2.0\UserService.Model.deps.json
+C:\微服务\TemplateSolution\UserService.Model\bin\Release\netstandard2.0\UserService.Model.dll
+C:\微服务\TemplateSolution\UserService.Model\bin\Release\netstandard2.0\UserService.Model.pdb
+C:\微服务\TemplateSolution\UserService.Model\obj\Release\netstandard2.0\UserService.Model.AssemblyInfoInputs.cache
+C:\微服务\TemplateSolution\UserService.Model\obj\Release\netstandard2.0\UserService.Model.AssemblyInfo.cs
+C:\微服务\TemplateSolution\UserService.Model\obj\Release\netstandard2.0\UserService.Model.csproj.CoreCompileInputs.cache
+C:\微服务\TemplateSolution\UserService.Model\obj\Release\netstandard2.0\UserService.Model.dll
+C:\微服务\TemplateSolution\UserService.Model\obj\Release\netstandard2.0\UserService.Model.pdb

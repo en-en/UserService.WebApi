@@ -1,0 +1,14 @@
+C:\微服务\TemplateSolution\UserService.Service\bin\Debug\netstandard2.0\UserService.Service.deps.json
+C:\微服务\TemplateSolution\UserService.Service\bin\Debug\netstandard2.0\UserService.Service.dll
+C:\微服务\TemplateSolution\UserService.Service\bin\Debug\netstandard2.0\UserService.Service.pdb
+C:\微服务\TemplateSolution\UserService.Service\bin\Debug\netstandard2.0\UserService.IService.dll
+C:\微服务\TemplateSolution\UserService.Service\bin\Debug\netstandard2.0\UserService.Model.dll
+C:\微服务\TemplateSolution\UserService.Service\bin\Debug\netstandard2.0\UserService.IService.pdb
+C:\微服务\TemplateSolution\UserService.Service\bin\Debug\netstandard2.0\UserService.Model.pdb
+C:\微服务\TemplateSolution\UserService.Service\obj\Debug\netstandard2.0\UserService.Service.csprojAssemblyReference.cache
+C:\微服务\TemplateSolution\UserService.Service\obj\Debug\netstandard2.0\UserService.Service.AssemblyInfoInputs.cache
+C:\微服务\TemplateSolution\UserService.Service\obj\Debug\netstandard2.0\UserService.Service.AssemblyInfo.cs
+C:\微服务\TemplateSolution\UserService.Service\obj\Debug\netstandard2.0\UserService.Service.csproj.CoreCompileInputs.cache
+C:\微服务\TemplateSolution\UserService.Service\obj\Debug\netstandard2.0\UserService.Service.csproj.CopyComplete
+C:\微服务\TemplateSolution\UserService.Service\obj\Debug\netstandard2.0\UserService.Service.dll
+C:\微服务\TemplateSolution\UserService.Service\obj\Debug\netstandard2.0\UserService.Service.pdb

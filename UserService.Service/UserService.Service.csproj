@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserService.IService\UserService.IService.csproj" />
+    <ProjectReference Include="..\UserService.Model\UserService.Model.csproj" />
+  </ItemGroup>
+
+</Project>
