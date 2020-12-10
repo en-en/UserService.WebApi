@@ -13,6 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="aliyun-net-sdk-core" Version="1.5.10" />
     <PackageReference Include="Consul" Version="1.6.1.1" />
     <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
@@ -25,6 +26,15 @@
     <ProjectReference Include="..\UserService.IService\UserService.IService.csproj" />
     <ProjectReference Include="..\UserService.Model\UserService.Model.csproj" />
     <ProjectReference Include="..\UserService.Service\UserService.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="aliyun-net-sdk-core">
+      <HintPath>..\DLL\aliyun-net-sdk-core.dll</HintPath>
+    </Reference>
+    <Reference Include="aliyun-net-sdk-dysmsapi">
+      <HintPath>..\DLL\aliyun-net-sdk-dysmsapi.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>

@@ -11,5 +11,7 @@ namespace UserService.Model
         public string Email { get; set; }
         public string Role { get; set; }
         public DateTime LoginTime { get; set; }
+        public int PhontNum { get; set; }
+
     }
 }

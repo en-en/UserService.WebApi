@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9sElwyz5lpvVV/g4YVF2Gr/MTVuYz3U2uOL3+8N8NGsZSK6I79dBhnAVjc9IYjEP1TrVpXl4mtwYw76FaddvQ==",
+  "dgSpecHash": "2CSf/Ens9TjR7Pn/i1oEkkit7zBI/hmtwrrtkdssAaefVV1g3VNwyREI6JIijMOfKbamm92oIaETgNu68GpWkg==",
   "success": true,
   "projectFilePath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Webapi\\UserService.Webapi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Shinelon\\.nuget\\packages\\aliyun-net-sdk-core\\1.5.10\\aliyun-net-sdk-core.1.5.10.nupkg.sha512",
     "C:\\Users\\Shinelon\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "C:\\Users\\Shinelon\\.nuget\\packages\\identitymodel\\2.12.0\\identitymodel.2.12.0.nupkg.sha512",
     "C:\\Users\\Shinelon\\.nuget\\packages\\identitymodel.aspnetcore.oauth2introspection\\3.0.1\\identitymodel.aspnetcore.oauth2introspection.3.0.1.nupkg.sha512",

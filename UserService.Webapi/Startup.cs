@@ -38,10 +38,10 @@ namespace UserService.Webapi
             services.AddAuthentication("Bearer")
                     .AddIdentityServerAuthentication(options =>
                     {
-                        options.Authority = "http://localhost:5004";//identifyServer服务地址
+                        options.Authority = Configuration["IdentityServer4:IP"]+":"+Configuration["IdentityServer4:Port"] ;//identifyServer服务地址
                         options.RequireHttpsMetadata = false;//是否使用https
 
-                        options.ApiName = "api1";//进行身份验证的API资源的名称
+                        options.ApiName = "UserServiceApi";//进行身份验证的API资源的名称
                     });
 
             services.AddTransient<IUserService, UserService.Service.UserService>();
