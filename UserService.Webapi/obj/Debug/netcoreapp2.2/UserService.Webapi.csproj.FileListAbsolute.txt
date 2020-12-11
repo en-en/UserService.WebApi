@@ -53,6 +53,7 @@ C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netc
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netcoreapp2.2\publish\netcoreapp2.2\UserService.Webapi.runtimeconfig.dev.json
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netcoreapp2.2\publish\netcoreapp2.2\UserService.Webapi.dll
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netcoreapp2.2\publish\netcoreapp2.2\UserService.Webapi.pdb
+C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netcoreapp2.2\publish\netcoreapp2.2\aliyun-net-sdk-dysmsapi.dll
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netcoreapp2.2\publish\netcoreapp2.2\UserService.IService.dll
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netcoreapp2.2\publish\netcoreapp2.2\UserService.Model.dll
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netcoreapp2.2\publish\netcoreapp2.2\UserService.Service.dll
@@ -62,6 +63,7 @@ C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netc
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.csprojAssemblyReference.cache
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.AssemblyInfoInputs.cache
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.AssemblyInfo.cs
+C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.csproj.CoreCompileInputs.cache
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.RazorAssemblyInfo.cache
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.RazorAssemblyInfo.cs
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.RazorTargetAssemblyInfo.cache
@@ -69,5 +71,3 @@ C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcor
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.dll
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.pdb
 C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.genruntimeconfig.cache
-C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.csproj.CoreCompileInputs.cache
-C:\微服务\MicroService\UserService.WebApi\UserService.Webapi\bin\Release\netcoreapp2.2\publish\netcoreapp2.2\aliyun-net-sdk-dysmsapi.dll
