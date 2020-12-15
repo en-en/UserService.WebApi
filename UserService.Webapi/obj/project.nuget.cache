@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2CSf/Ens9TjR7Pn/i1oEkkit7zBI/hmtwrrtkdssAaefVV1g3VNwyREI6JIijMOfKbamm92oIaETgNu68GpWkg==",
+  "dgSpecHash": "sVC8/FG6ZeWIpKtZ6Oa5X26Rz+nbtgpeuyL4zuCiCbH9lBWeeVHpyWt4dM9P1nJgfgsXo2SU5COY0hBiFuqvig==",
   "success": true,
-  "projectFilePath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Webapi\\UserService.Webapi.csproj",
+  "projectFilePath": "C:\\微服务\\UserService.WebApi\\UserService.Webapi\\UserService.Webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shinelon\\.nuget\\packages\\aliyun-net-sdk-core\\1.5.10\\aliyun-net-sdk-core.1.5.10.nupkg.sha512",
     "C:\\Users\\Shinelon\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
@@ -164,6 +164,7 @@
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.options.configurationextensions\\2.2.0\\microsoft.extensions.options.configurationextensions.2.2.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.options.dataannotations\\2.2.0\\microsoft.extensions.options.dataannotations.2.2.0.nupkg.sha512",
+    "C:\\Users\\Shinelon\\.nuget\\packages\\microsoft.extensions.platformabstractions\\1.1.0\\microsoft.extensions.platformabstractions.1.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.webencoders\\2.2.0\\microsoft.extensions.webencoders.2.2.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.identitymodel.jsonwebtokens\\5.3.0\\microsoft.identitymodel.jsonwebtokens.5.3.0.nupkg.sha512",

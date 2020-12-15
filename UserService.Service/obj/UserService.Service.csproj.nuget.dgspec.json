@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj": {}
+    "C:\\微服务\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj": {}
   },
   "projects": {
-    "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj": {
+    "C:\\微服务\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj",
+        "projectUniqueName": "C:\\微服务\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj",
         "projectName": "UserService.IService",
-        "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj",
+        "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj",
         "packagesPath": "C:\\Users\\Shinelon\\.nuget\\packages\\",
-        "outputPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.IService\\obj\\",
+        "outputPath": "C:\\微服务\\UserService.WebApi\\UserService.IService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,8 +32,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj": {
-                "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj"
+              "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj": {
+                "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj": {
+    "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj",
+        "projectUniqueName": "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj",
         "projectName": "UserService.Model",
-        "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj",
+        "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj",
         "packagesPath": "C:\\Users\\Shinelon\\.nuget\\packages\\",
-        "outputPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\obj\\",
+        "outputPath": "C:\\微服务\\UserService.WebApi\\UserService.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj": {
+    "C:\\微服务\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj",
+        "projectUniqueName": "C:\\微服务\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj",
         "projectName": "UserService.Service",
-        "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj",
+        "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj",
         "packagesPath": "C:\\Users\\Shinelon\\.nuget\\packages\\",
-        "outputPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Service\\obj\\",
+        "outputPath": "C:\\微服务\\UserService.WebApi\\UserService.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -156,11 +156,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj": {
-                "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj"
+              "C:\\微服务\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj": {
+                "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj"
               },
-              "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj": {
-                "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj"
+              "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj": {
+                "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj"
               }
             }
           }

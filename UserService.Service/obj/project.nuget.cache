@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HznwA/fUD2B/AeKMmE/P+Ps9uNI8gejA1igxI9LK5D6nCwEN7YVSeVb7p4QEAqsSE22m8kR+SolbohLVMAIfeg==",
+  "dgSpecHash": "7GDroP5TIOuBxlIUZh+/hyA3J1K6ZwgvXgnZcO/fGqbfGBCXw79yJxNQkdoOo6Pwi+svcr60Kn4YeQymg8p7Pw==",
   "success": true,
-  "projectFilePath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj",
+  "projectFilePath": "C:\\微服务\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shinelon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -2418,6 +2418,19 @@
           "lib/netstandard2.0/Microsoft.Extensions.Options.DataAnnotations.dll": {}
         }
       },
+      "Microsoft.Extensions.PlatformAbstractions/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "System.Reflection.TypeExtensions": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.Extensions.PlatformAbstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.Extensions.PlatformAbstractions.dll": {}
+        }
+      },
       "Microsoft.Extensions.Primitives/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -6908,6 +6921,20 @@
         "lib/netstandard2.0/Microsoft.Extensions.Options.DataAnnotations.xml",
         "microsoft.extensions.options.dataannotations.2.2.0.nupkg.sha512",
         "microsoft.extensions.options.dataannotations.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.PlatformAbstractions/1.1.0": {
+      "sha512": "E/OemvlfjLW7m8K9V3XSKpRNgf6mzOe3Op1qv9cReP5GOd/38RlD9vgrbwCcJHNDfwYLQ+a8v7RGL62hEcnM9g==",
+      "type": "package",
+      "path": "microsoft.extensions.platformabstractions/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net451/Microsoft.Extensions.PlatformAbstractions.dll",
+        "lib/net451/Microsoft.Extensions.PlatformAbstractions.xml",
+        "lib/netstandard1.3/Microsoft.Extensions.PlatformAbstractions.dll",
+        "lib/netstandard1.3/Microsoft.Extensions.PlatformAbstractions.xml",
+        "microsoft.extensions.platformabstractions.1.1.0.nupkg.sha512",
+        "microsoft.extensions.platformabstractions.nuspec"
       ]
     },
     "Microsoft.Extensions.Primitives/2.2.0": {
@@ -12564,6 +12591,7 @@
       "IdentityServer4.AccessTokenValidation >= 2.2.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
+      "Microsoft.Extensions.PlatformAbstractions >= 1.1.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.9",
       "Swashbuckle.AspNetCore >= 5.6.3",
@@ -12580,11 +12608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Webapi\\UserService.Webapi.csproj",
+      "projectUniqueName": "C:\\微服务\\UserService.WebApi\\UserService.Webapi\\UserService.Webapi.csproj",
       "projectName": "UserService.Webapi",
-      "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Webapi\\UserService.Webapi.csproj",
+      "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.Webapi\\UserService.Webapi.csproj",
       "packagesPath": "C:\\Users\\Shinelon\\.nuget\\packages\\",
-      "outputPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Webapi\\obj\\",
+      "outputPath": "C:\\微服务\\UserService.WebApi\\UserService.Webapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12605,14 +12633,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj": {
-              "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj"
+            "C:\\微服务\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj": {
+              "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.IService\\UserService.IService.csproj"
             },
-            "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj": {
-              "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj"
+            "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj": {
+              "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj"
             },
-            "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj": {
-              "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj"
+            "C:\\微服务\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj": {
+              "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj"
             }
           }
         }
@@ -12644,6 +12672,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "Microsoft.Extensions.PlatformAbstractions": {
+            "target": "Package",
+            "version": "[1.1.0, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",

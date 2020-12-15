@@ -22,3 +22,15 @@ C:\微服务\MicroService\UserService.WebApi\UserService.IService\obj\Debug\nets
 C:\微服务\MicroService\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.csproj.CopyComplete
 C:\微服务\MicroService\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.dll
 C:\微服务\MicroService\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.pdb
+C:\微服务\UserService.WebApi\UserService.IService\bin\Debug\netstandard2.0\UserService.IService.deps.json
+C:\微服务\UserService.WebApi\UserService.IService\bin\Debug\netstandard2.0\UserService.IService.dll
+C:\微服务\UserService.WebApi\UserService.IService\bin\Debug\netstandard2.0\UserService.IService.pdb
+C:\微服务\UserService.WebApi\UserService.IService\bin\Debug\netstandard2.0\UserService.Model.dll
+C:\微服务\UserService.WebApi\UserService.IService\bin\Debug\netstandard2.0\UserService.Model.pdb
+C:\微服务\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.csprojAssemblyReference.cache
+C:\微服务\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.AssemblyInfoInputs.cache
+C:\微服务\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.AssemblyInfo.cs
+C:\微服务\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.csproj.CoreCompileInputs.cache
+C:\微服务\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.csproj.CopyComplete
+C:\微服务\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.dll
+C:\微服务\UserService.WebApi\UserService.IService\obj\Debug\netstandard2.0\UserService.IService.pdb

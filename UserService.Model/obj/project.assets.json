@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj",
+      "projectUniqueName": "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj",
       "projectName": "UserService.Model",
-      "projectPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj",
+      "projectPath": "C:\\微服务\\UserService.WebApi\\UserService.Model\\UserService.Model.csproj",
       "packagesPath": "C:\\Users\\Shinelon\\.nuget\\packages\\",
-      "outputPath": "C:\\微服务\\MicroService\\UserService.WebApi\\UserService.Model\\obj\\",
+      "outputPath": "C:\\微服务\\UserService.WebApi\\UserService.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

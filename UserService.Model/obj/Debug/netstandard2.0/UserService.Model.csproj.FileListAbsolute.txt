@@ -16,3 +16,11 @@ C:\微服务\MicroService\UserService.WebApi\UserService.Model\obj\Debug\netstan
 C:\微服务\MicroService\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.csproj.CoreCompileInputs.cache
 C:\微服务\MicroService\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.dll
 C:\微服务\MicroService\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.pdb
+C:\微服务\UserService.WebApi\UserService.Model\bin\Debug\netstandard2.0\UserService.Model.deps.json
+C:\微服务\UserService.WebApi\UserService.Model\bin\Debug\netstandard2.0\UserService.Model.dll
+C:\微服务\UserService.WebApi\UserService.Model\bin\Debug\netstandard2.0\UserService.Model.pdb
+C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.AssemblyInfoInputs.cache
+C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.AssemblyInfo.cs
+C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.csproj.CoreCompileInputs.cache
+C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.dll
+C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.pdb
