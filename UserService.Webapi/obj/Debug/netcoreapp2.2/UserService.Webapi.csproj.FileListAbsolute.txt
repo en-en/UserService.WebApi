@@ -97,4 +97,5 @@ C:\微服务\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserS
 C:\微服务\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.dll
 C:\微服务\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.pdb
 C:\微服务\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.genruntimeconfig.cache
+C:\微服务\UserService.WebApi\UserService.Webapi\bin\Release\netcoreapp2.2\publish\netcoreapp2.2\aliyun-net-sdk-core.dll
 C:\微服务\UserService.WebApi\UserService.Webapi\obj\Debug\netcoreapp2.2\UserService.Webapi.csproj.CoreCompileInputs.cache

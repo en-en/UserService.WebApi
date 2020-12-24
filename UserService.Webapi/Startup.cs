@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Threading.Tasks;
+using MicroService.Consul;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -141,18 +141,18 @@ namespace UserService.Webapi
 
             #endregion
 
+            //ServiceEntity serviceEntity = new ServiceEntity
+            //{
+            //    IP = Configuration["Service:IP"],
+            //    Port = Convert.ToInt32(Configuration["Service:Port"]),
+            //    ServiceName = Configuration["Service:Name"],
+            //    ConsulIP = Configuration["Consul:IP"],
+            //    ConsulPort = Convert.ToInt32(Configuration["Consul:Port"])
 
-            ServiceEntity serviceEntity = new ServiceEntity
-            {
-                IP = Configuration["Service:IP"],
-                Port = Convert.ToInt32(Configuration["Service:Port"]),
-                ServiceName = Configuration["Service:Name"],
-                ConsulIP = Configuration["Consul:IP"],
-                ConsulPort = Convert.ToInt32(Configuration["Consul:Port"])
-
-            };
-            Console.WriteLine($"consul开始注册{JsonConvert.SerializeObject(serviceEntity)}");
-            app.RegisterConsul(lifetime, serviceEntity);
+            //};
+            //Console.WriteLine($"consul开始注册{JsonConvert.SerializeObject(serviceEntity)}");
+            app.UseConul(Configuration, lifetime);
+          //  app.RegisterConsul(lifetime, serviceEntity);
         }
     }
 }

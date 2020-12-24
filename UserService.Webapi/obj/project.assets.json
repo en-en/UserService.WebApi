@@ -2,15 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "aliyun-net-sdk-core/1.5.10": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {}
-        }
-      },
       "Consul/1.6.1.1": {
         "type": "package",
         "dependencies": {
@@ -4665,19 +4656,6 @@
     }
   },
   "libraries": {
-    "aliyun-net-sdk-core/1.5.10": {
-      "sha512": "QJfZdf3cQZEeudq2SDASJEJbl8D80p7YsGFZrrcFDba+1jsSeUT+oR0XoU4MdEF9kHr8mC6HoOsS5aioeMVQqw==",
-      "type": "package",
-      "path": "aliyun-net-sdk-core/1.5.10",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "aliyun-net-sdk-core.1.5.10.nupkg.sha512",
-        "aliyun-net-sdk-core.nuspec",
-        "lib/net45/aliyun-net-sdk-core.dll",
-        "lib/netstandard2.0/aliyun-net-sdk-core.dll"
-      ]
-    },
     "Consul/1.6.1.1": {
       "sha512": "AJkBiix1bT3cSZRO6OD0Ee31Co1qgVkmVBFwpxym9WdxH5K6LfmAZ8Vb8nGvo9EKC+ir2sv5fKIrY75aENcMDA==",
       "type": "package",
@@ -12597,8 +12575,7 @@
       "Swashbuckle.AspNetCore >= 5.6.3",
       "UserService.IService >= 1.0.0",
       "UserService.Model >= 1.0.0",
-      "UserService.Service >= 1.0.0",
-      "aliyun-net-sdk-core >= 1.5.10"
+      "UserService.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12627,7 +12604,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://10.6.1.36:8011/nuget": {},
-        "http://122.51.103.215:9022/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12690,10 +12666,6 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[5.6.3, )"
-          },
-          "aliyun-net-sdk-core": {
-            "target": "Package",
-            "version": "[1.5.10, )"
           }
         },
         "imports": [

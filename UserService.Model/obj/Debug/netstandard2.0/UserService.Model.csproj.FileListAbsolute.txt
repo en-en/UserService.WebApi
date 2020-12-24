@@ -24,3 +24,4 @@ C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserS
 C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.csproj.CoreCompileInputs.cache
 C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.dll
 C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.pdb
+C:\微服务\UserService.WebApi\UserService.Model\obj\Debug\netstandard2.0\UserService.Model.csprojAssemblyReference.cache

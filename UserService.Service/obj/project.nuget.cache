@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7GDroP5TIOuBxlIUZh+/hyA3J1K6ZwgvXgnZcO/fGqbfGBCXw79yJxNQkdoOo6Pwi+svcr60Kn4YeQymg8p7Pw==",
+  "dgSpecHash": "QFBFwWNFJ0doJxqprnD39nkJoBy7quGsgbSCl7C1hS4Oi11BFWYMNYWOc9hxlUPIld9VX/hcL54CLlHxHN0dHA==",
   "success": true,
   "projectFilePath": "C:\\微服务\\UserService.WebApi\\UserService.Service\\UserService.Service.csproj",
   "expectedPackageFiles": [

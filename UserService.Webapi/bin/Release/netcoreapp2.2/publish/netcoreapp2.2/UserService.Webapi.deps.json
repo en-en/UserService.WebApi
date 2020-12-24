@@ -35,7 +35,7 @@
           "UserService.IService": "1.0.0",
           "UserService.Model": "1.0.0",
           "UserService.Service": "1.0.0",
-          "aliyun-net-sdk-core": "1.5.10",
+          "aliyun-net-sdk-core": "2.0.0.0",
           "aliyun-net-sdk-dysmsapi": "1.0.0.0"
         },
         "runtime": {
@@ -43,17 +43,6 @@
         },
         "compile": {
           "UserService.Webapi.dll": {}
-        }
-      },
-      "aliyun-net-sdk-core/1.5.10": {
-        "runtime": {
-          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {
-            "assemblyVersion": "1.5.10.0",
-            "fileVersion": "1.5.10.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {}
         }
       },
       "Consul/1.6.1.1": {
@@ -331,6 +320,17 @@
         },
         "compile": {
           "UserService.Service.dll": {}
+        }
+      },
+      "aliyun-net-sdk-core/2.0.0.0": {
+        "runtime": {
+          "aliyun-net-sdk-core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        },
+        "compile": {
+          "aliyun-net-sdk-core.dll": {}
         }
       },
       "aliyun-net-sdk-dysmsapi/1.0.0.0": {
@@ -3486,13 +3486,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "aliyun-net-sdk-core/1.5.10": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-QJfZdf3cQZEeudq2SDASJEJbl8D80p7YsGFZrrcFDba+1jsSeUT+oR0XoU4MdEF9kHr8mC6HoOsS5aioeMVQqw==",
-      "path": "aliyun-net-sdk-core/1.5.10",
-      "hashPath": "aliyun-net-sdk-core.1.5.10.nupkg.sha512"
-    },
     "Consul/1.6.1.1": {
       "type": "package",
       "serviceable": true,
@@ -3638,6 +3631,11 @@
     },
     "UserService.Service/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "aliyun-net-sdk-core/2.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
